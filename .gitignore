@@ -1,0 +1,5 @@
+*.swp
+.cache/
+env/
+*.pyc
+*.pyo
